@@ -13,7 +13,8 @@ app.use(require('./routes'));
 mongoose.connect(process.env.MONGODB_URI || 'mongodb://localhost/socialize', {
     useFindAndModify: false,
     useNewUrlParser: true,
-    useUnifiedTopology: true
+    useUnifiedTopology: true,
+    useCreateIndex: true
 });
 
 mongoose.set('debug', true);
