@@ -8,7 +8,7 @@ as well as add users to their friend's list.
 
 ## Video Link:
 
-
+https://youtu.be/7BHm_N38YTk
 
 ## Developers:
 * Ali Nguyen    https://github.com/nguyenali
